@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
 description: "Marriage is a 1912 novel by H. G. Wells.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35338#Marriage
 gutenberg_issued: '2011-02-20'
 gutenberg_type: Text
 identifiers:
